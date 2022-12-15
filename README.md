@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiamdiu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb)
 </br>
-**My resume:**  [**Phan Van Phuc**](https://github.com/pphuc25/Phan-Van-Phuc-resume.pdf)
+**My resume:**  [**Phan Van Phuc**](Phan-Van-Phuc-resume.pdf)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi) -->
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/) -->
 
@@ -32,11 +32,11 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 - 🍕 &nbsp; Hackathons, meetups & tech events. -->
 
 ### Languages and Tools:
-
-<code><img height="27" src="https://github.com/pphuc25/pphuc25/tree/main/icon/python.png" alt="python"></code>
-<code><img height="27" src="https://github.com/pphuc25/pphuc25/tree/main/icon/SQL.png" alt="sql"></code>
-<code><img height="27" src="https://github.com/pphuc25/pphuc25/tree/main/icon/git.png" alt="git"></code>
-<code><img height="27" src="https://github.com/pphuc25/pphuc25/tree/main/icon/terminal.png" alt="terminal"></code>
+<!-- ![my_image](icon/python.png =27x27) -->
+<code><img src="icon/python.png" width="27" height="27" /></code>
+<code><img src="icon/SQL.png" width="27" height="27" /></code>
+<code><img src="icon/git.png" width="27" height="27" /></code>
+<code><img src="icon/terminal.png" width="27" height="27" /></code>
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
@@ -45,7 +45,6 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 
 
 ### My Projects:
-
 
 <!-- <details>	
   <summary><b>⚡ Github Stats</b></summary>
@@ -90,7 +89,6 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 <!-- <br />
 <summary><b>🎤 Speech</b></summary> -->
 
-<!-- <br /> -->
 #### 🪡 From scratch
 <table>
   <tr>
