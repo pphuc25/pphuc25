@@ -109,7 +109,7 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
       <a href="https://github.com/pphuc25/Monkey-take-banana">
         <b>🐵 Monkey Take Banana Game</b>
       </a>
-    <td>
+    </td>
     <td><img alt="Stars" src="https://img.shields.io/github/stars/pphuc25/Monkey-take-banana"/></td>
   </tr>
 </table>
