@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiamdiu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb)
 </br>
-**My resume:**  [**Phan Van Phuc**](https://github.com/iampavangandhi/pphuc/Phan-Van-Phuc-resume.pdf)
+**My resume:**  [**Phan Van Phuc**](https://github.com/pphuc25/Phan-Van-Phuc-resume.pdf)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi) -->
 <!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/) -->
 
@@ -33,10 +33,10 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 
 ### Languages and Tools:
 
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
+<code><img height="27" src="https://github.com/pphuc25/icon/python.png" alt="python"></code>
+<code><img height="27" src="https://github.com/pphuc25/icon/SQL.png" alt="sql"></code>
+<code><img height="27" src="https://github.com/pphuc25/icon/git.png" alt="git"></code>
+<code><img height="27" src="https://github.com/pphuc25/icon/terminal.png" alt="terminal"></code>
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
@@ -91,7 +91,7 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 <summary><b>🎤 Speech</b></summary> -->
 
 <!-- <br /> -->
-<summary><b>🪡 From scratch</b></summary>
+#### 🪡 From scratch
 <table>
   <tr>
     <td>
@@ -104,7 +104,7 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 </table>
 
 <!-- <br /> -->
-<summary><b>🏌️‍♂️ Other Project</b></summary>
+#### 🏌️‍♂️ Other Project
 <table>
   <tr>
     <td>
