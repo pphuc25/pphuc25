@@ -89,7 +89,7 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 <!-- <br />
 <summary><b>🎤 Speech</b></summary> -->
 
-#### 🪡 From scratch
+#### 🪡 From Scratch
 <table>
   <tr>
     <td>
@@ -97,7 +97,8 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
         <b>⚙️ Machine Learning Library from Scratch</b>
       </a>
     </td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/AI-Coffee/mllib-from-scratch"/></td>
+<!--     <td><img alt="Stars" src="https://img.shields.io/github/stars/AI-Coffee/mllib-from-scratch"/></td> -->
+	  <td><img alt="Stars" src="https://img.shields.io/github/stars/AI-Coffee/mllib-from-scratch?color=%23FFFF66&style=flat-square"/></td>
   </tr>
 </table>
 
@@ -110,7 +111,7 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
         <b>🐵 Monkey Take Banana Game</b>
       </a>
     </td>
-    <td><img alt="Stars" src="https://img.shields.io/github/stars/pphuc25/Monkey-take-banana"/></td>
+    <td><img alt="Stars" src="https://img.shields.io/github/stars/pphuc25/Monkey-take-banana?color=%23FFFF66&style=flat-square"/></td>
   </tr>
 </table>
  
