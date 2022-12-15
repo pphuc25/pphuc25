@@ -103,7 +103,7 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 </table>
 
 <!-- <br /> -->
-#### 🏌️‍♂️ Other Project
+#### 🏌️‍♂️ Other Projects
 <table>
   <tr>
     <td>
