@@ -6,9 +6,7 @@
 <a href="https://www.linkedin.com/in/hiamdiu/"><img width="27" height="27" alt="Linkedin" title="Linkedin" src="icon/linkedin.png"/></a> &#8287;
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb"><img width="27" heigh="27" alt="Gmail" title="Gmail" src="icon/gmail.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 </br>
-**My Resume:**  [**Phan Van Phuc**](Phan-Van-Phuc-resume.pdf)
-<!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi) -->
-<!-- [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/) -->
+<!-- **My Resume:**  [**Phan Van Phuc**](Phan-Van-Phuc-resume.pdf) -->
 
 ### Glad to see you here! &nbsp;
 
