@@ -1,7 +1,10 @@
 ## Hi, My name is [Phan Phuc](https://github.com/pphuc25)!
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiamdiu/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb)
+<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiamdiu/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb) -->
+
+<a href="https://www.linkedin.com/in/hiamdiu/"><img width="27" height="27" alt="Linkedin" title="Linkedin" src="icon/linkedin.png"/></a> &#8287;
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb"><img width="27" heigh="27" alt="Gmail" title="Gmail" src="icon/gmail.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 </br>
 **My Resume:**  [**Phan Van Phuc**](Phan-Van-Phuc-resume.pdf)
 <!-- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi) -->
@@ -33,10 +36,10 @@ I'm a undergraduate with majoring in **Artifical Intelligence** at **FPT Univers
 
 ### Languages and Tools:
 <!-- ![my_image](icon/python.png =27x27) -->
-<code><img src="icon/python.png" width="27" height="27" /></code>
-<code><img src="icon/SQL.png" width="27" height="27" /></code>
-<code><img src="icon/git.png" width="27" height="27" /></code>
-<code><img src="icon/terminal.png" width="27" height="27" /></code>
+<code><img src="icon/python.png" width="27" height="27" title="Python"/></code>
+<code><img src="icon/SQL.png" width="27" height="27" title="SQL"/></code>
+<code><img src="icon/git.png" width="27" height="27" title="Git"/></code>
+<code><img src="icon/terminal.png" width="27" height="27" title="Terminal"/></code>
 
 <!--
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
