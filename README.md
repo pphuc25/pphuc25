@@ -12,3 +12,8 @@
 
 I'm an undergraduate majoring in **Artificial Intelligence** at **FPT University**. I love to explore new technologies and leverage them to solve real-life problems (especially **the NLP field**) ✨. I'm currently into Machine Learning and learning about AI.
 
+### Languages and Tools:
+<code><img src="icon/python.png" width="27" height="27" title="Python"/></code>
+<code><img src="icon/SQL.png" width="27" height="27" title="SQL"/></code>
+<code><img src="icon/git.png" width="27" height="27" title="Git"/></code>
+<code><img src="icon/terminal.png" width="27" height="27" title="Terminal"/></code>
