@@ -3,7 +3,7 @@
 <!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiamdiu/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb) -->
 
-<a href="https://www.linkedin.com/in/hiamdiu/"><img width="27" height="27" alt="Linkedin" title="Linkedin" src="icon/linkedin.png"/></a> &#8287;
+<a href="https://www.linkedin.com/in/pphuc/"><img width="27" height="27" alt="Linkedin" title="Linkedin" src="icon/linkedin.png"/></a> &#8287;
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb"><img width="27" heigh="27" alt="Gmail" title="Gmail" src="icon/gmail.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
 </br>
 <!-- **My Resume:**  [**Phan Van Phuc**](Phan-Van-Phuc-resume.pdf) -->
