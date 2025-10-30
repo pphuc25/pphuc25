@@ -19,9 +19,3 @@ This repo still shows my past life—datasets with 700k+ Vietnamese language sam
 If you're building something in AI and your messaging feels off, I'm around. Always happy to chat.
 * Gmail: phanphuc1100@gmail.com
 * Linkedin: https://www.linkedin.com/in/pphuc/
-
-### Languages and Tools:
-<code><img src="icon/python.png" width="27" height="27" title="Python"/></code>
-<code><img src="icon/SQL.png" width="27" height="27" title="SQL"/></code>
-<code><img src="icon/git.png" width="27" height="27" title="Git"/></code>
-<code><img src="icon/terminal.png" width="27" height="27" title="Terminal"/></code>
