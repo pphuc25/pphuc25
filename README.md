@@ -1,4 +1,4 @@
-## 🔴 NOTE: I'm now a SaaS copywriter specializing in AI products
+## 🔴 NOTE: I'm now a Freelance SaaS Copywriter
 
 Hi there 👋, My name is [Phuc](https://www.linkedin.com/in/pphuc/)! Or you can call me Peter.
 
