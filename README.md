@@ -1,14 +1,6 @@
-## Hi there 👋, My name is [Phuc](https://www.linkedin.com/in/pphuc/)! Or you can call me Peter.
-
-<!-- [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiamdiu/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSMTRsbLtgqfkStwMjGrTBCzTvdsBlwqlBqfRJqVMSWwCDpKltjWfNKsVlkShHfQxqmqSDGb) -->
-
-<a href="https://www.linkedin.com/in/pphuc/"><img width="27" height="27" alt="Linkedin" title="Linkedin" src="icon/linkedin.png"/></a> &#8287;
-<a href="https://mail.google.com/mail/u/1/#inbox?compose=CllgCJqVPGMPmtDRpGhxkCJhphfFlLJrgFQNzbpBxzpcgZdFmQtfKKfHDjKfxwFZxnrLfPZSJQV"><img width="27" heigh="27" alt="Gmail" title="Gmail" src="icon/gmail.png"/></a> &#8287;&#8287;&#8287;&#8287;&#8287;
-</br>
-
-
 ## 🔴 NOTE: I'm now a SaaS copywriter specializing in AI products
+
+Hi there 👋, My name is [Phuc](https://www.linkedin.com/in/pphuc/)! Or you can call me Peter.
 
 If you're wondering why an AI engineer's GitHub looks a bit quiet lately, here's my story:
 
