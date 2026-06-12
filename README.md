@@ -2,7 +2,7 @@
 
 Hi there 👋, If you're wondering why an AI engineer's GitHub looks quiet lately, here's the story:
 
-My name is [Phuc](https://www.linkedin.com/in/pphuc/)! Or you can call me Peter.
+My name is [Phuc](https://www.linkedin.com/in/pphuc/)! Or you can call me Felix.
 
 I spent 4 years building NLP applications and publishing research. Then I noticed something frustrating: brilliant AI products were failing not because of bad technology, but because of bad messaging. Technical teams (myself included) were so deep in the code that we forgot how to talk to actual humans.
 
