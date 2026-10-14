@@ -15,7 +15,3 @@ So now, I help AI SaaS companies translate complex tech into clear, compelling m
 **What's below:**
 
 This repo still shows my past life—datasets with 700k+ Vietnamese language samples, multilingual medical speech recognition models, ASR systems. These projects taught me how AI systems think, which is exactly why I can now write about them in ways that non-technical buyers understand.
-
-If you're building something in AI and your messaging feels off, I'm around. Always happy to chat.
-* Gmail: phanphuc1100@gmail.com
-* Linkedin: https://www.linkedin.com/in/pphuc/
