@@ -1,4 +1,4 @@
-## 🔴 NOTE: I'm now a Freelance SaaS Copywriter
+## 🔴 NOTE: I'm now a Copywriter
 
 Hi there 👋, If you're wondering why an AI engineer's GitHub looks quiet lately, here's the story:
 
@@ -15,3 +15,7 @@ So now, I help AI SaaS companies translate complex tech into clear, compelling m
 **What's below:**
 
 This repo still shows my past life—datasets with 700k+ Vietnamese language samples, multilingual medical speech recognition models, ASR systems. These projects taught me how AI systems think, which is exactly why I can now write about them in ways that non-technical buyers understand.
+
+You can contact me via:
+- My email: phanphuc1100@gmail.com
+- Whatsapp/Zalo: (+84) 83534 9558
